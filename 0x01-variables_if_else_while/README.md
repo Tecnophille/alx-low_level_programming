@@ -3,8 +3,8 @@
 Project done during **ALX Software Engineering Programme** at **ALX**. It aims to learn about arithmetic operators, relational operators, boolean operators, comments, declaring variables and loops in **C language**.
 
 ## Technologies
-* All C files are compiled using `gcc`
-* All C files are written according to the **BETTY CODING STYLE**
+* C files are compiled using `gcc`
+* C files are written according to the BETTY CODING standard
 * Tested on Ubuntu 20.04 LTS
 
 ## Files
