@@ -1,4 +1,4 @@
-#include <stdio.h> 
+#include <main.h> 
   
  /** 
   * main - Prints natural numbers below 1024 that are 
