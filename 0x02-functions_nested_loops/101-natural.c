@@ -6,13 +6,25 @@
  */
 int main(void)
 {
-	int a, b;
-	
-	for (a = 1; a < 1024; a++)
-	{
-		if ((a % 3) == 0 || (a % 5) == 0)
-		b += a;
-	}
-	printf("%d\n", b);
-	return (0);
+	unsigned long int sum3, sum5, sum;
+Int i;
+
+sum3 = 0;
+sum5 = 0
+sum = 0;
+
+for (i = 0; i < 1024; ++i)
+{
+If ((i % 3) == 0)
+{
+sum3 = sum3 + i;
+} else if ((i % 5) ==0)
+{
+sum5 = sum5 + i;
 }
+}
+sum = sum3 + sum5;
+printf("%lu\n", sum);
+return (0);
+}
+
