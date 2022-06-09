@@ -1,6 +1,6 @@
 # More functions, more nested loops
 
-Project done during **Full Stack Software Engineering** at **ALX SE**. It aims to learn about nested loops in **C language**.
+Project done during **Full Stack Software Engineering** at **ALX SE**. Teaches about nested loops in **C language**.
 
 ## Technologies
 * C files are compiled using `gcc`
