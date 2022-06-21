@@ -1,6 +1,6 @@
 # 0x08 Recursion
 
-Project done during **Software Engineering ** at **ALX**. ABOUT recursion and how to implement it in **C language**.
+Project done during ** Software Engineering ** at **ALX**. ABOUT recursion and how to implement it in **C language**.
 
 ## Technologies
 * C files are compiled using `gcc`
