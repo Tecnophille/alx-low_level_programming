@@ -1,6 +1,6 @@
 # Static libraries
 
-Project done during ** Full Stack Software Engineering ** at **ALX SE**. To learn about static libraries in **C language**.
+Project done during **Full Stack Software Engineering** at **ALX SE**. To learn about static libraries in **C language**.
 
 ## Technologies
 * Scripts written in Bash (1)
