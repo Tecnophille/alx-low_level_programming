@@ -122,8 +122,5 @@ int main(int argc, char *argv[])
 		}
 	}
 	printf("%s\n", nout);
-        free(next_prod); 
-         free(final_prod);
-
 	return (0);
 }
