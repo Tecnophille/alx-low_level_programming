@@ -1,5 +1,5 @@
 # Preprocessor
-Project done during **Full Stack Software Engineering studies** at **ALX SE**. Learning about how to include guard in the header files and macros in **C language**.
+Project done during **Full Stack Software Engineering* at **ALX SE**. Learning about how to include guard in the header files and macros in **C language**.
 
 ## Technologies
 * C files are compiled using `gcc`
