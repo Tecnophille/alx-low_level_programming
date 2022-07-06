@@ -1,30 +1,54 @@
 #include "3-calc.h"
 
 /**
- * get_op_func - selects the correct function to perform
- * the operation asked by the user.
- * @s: char operator.
+ * op_add - adds two numbers.
+ * @a: first number.
+ * @b: second number.
  *
- * Return: pointer to the function that corresponds to the operator.
+ * Return: add.
  */
-int (*get_op_func(char *s))(int, int)
+int op_add(int a, int b)
 {
-	op_t ops[] = {
-		{"+", op_add},
-		{"-", op_sub},
-		{"*", op_mul},
-		{"/", op_div},
-		{"%", op_mod},
-		{NULL, NULL}
-	};
-	int i = 0;
+	return (a + b);
+}
 
-	while (i < 10)
+/**
+ * op_sub - subctracts two numbers.
+ * @a: first number.
+ * @b: second number.
+ *
+ * Return: difference.
+ */
+int op_sub(int a, int b)
+{
+	return (a - b);
+}
+
+/**
+ * op_mul - multiplies two numbers.
+ * @a: first number.
+ * @b: second number.
+ *
+ * Return: multiplication.
+ */
+int op_mul(int a, int b)
+{
+	return (a * b);
+}
+
+/**
+ * op_div - divides two numbers.
+ * @a: first number.
+ * @b: second number.
+ *
+ * Return: division.
+ */
+int op_div(int a, int b)
+{
+	if (b == 0)
 	{
-		if (s[0] == ops->op[i])
-			break;
-		i++;
+		printf("Error\n");
+		exit(100);
 	}
-
-	return (ops[i / 2].f);
+	return (a / b);
 }
