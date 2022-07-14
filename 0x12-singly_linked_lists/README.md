@@ -1,4 +1,4 @@
-## 0x12-singly_linked_lists
+# 0x12-singly_linked_lists
 
 Project done during **Full Stack Software Engineering** at **ALX**. Learning about linked lists in **C language**.
 
