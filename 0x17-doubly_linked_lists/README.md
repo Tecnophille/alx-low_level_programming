@@ -1,60 +1,26 @@
-# 0x17. C - Doubly linked lists
+# Doubly linked lists
 
-## Description
-What you should learn from this project:
+Project done during **Full Stack Software Engineering** at **ALX**. Learning about doubly linked list in **C language**.
 
-* What is a doubly linked list
-* How to use doubly linked lists
-* Start to look for the right source of information without too much help
+## Technologies
+* Scripts written in Bash 
+* C files are compiled using `gcc`
+* Tested on Ubuntu 20.04 LTS
 
----
+## Files
+All of the following files are scripts and programs written in C:
 
-### [0. Print list](./ 0-print_dlistint.c)
-* Write a function that prints all the elements of a dlistint_t list.
-
-
-### [1. List length](./1-dlistint_len.c)
-* Write a function that returns the number of elements in a linked dlistint_t list.
-
-
-### [2. Add node](./2-add_dnodeint.c)
-* Write a function that adds a new node at the beginning of a dlistint_t list.
-
-
-### [3. Add node at the end](./3-add_dnodeint_end.c)
-* Write a function that adds a new node at the end of a dlistint_t list.
-
-
-### [4. Free list](./4-free_dlistint.c)
-* Write a function that free a dlistint_t list.
-
-
-### [5. Get node at index](./5-get_dnodeint.c)
-* Write a function that returns the nth node of a dlistint_t linked list.
-
-
-### [6. Sum list](./6-sum_dlistint.c)
-* Write a function that returns the sum of all the data (n) of a dlistint_t linked list.
-
-
-### [7. Insert at index](./7-insert_dnodeint.c)
-* Write a function that inserts a new node at a given position.
-
-
-### [8. Delete at index](./8-delete_dnodeint.c)
-* Write a function that deletes the node at index index of a dlistint_t linked list.
-
-
-### [9. Crackme4](./100-password)
-* Find the password for crackme4.
-
-
-### [10. Palindromes](./102-result)
-* A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
-
-
-### [11. crackme5](./103-keygen.c)
-* Write a keygen for crackme5.
-
----
-
+| Filename | Description |
+| -------- | ----------- |
+| `0-print_dlistint.c` | Prints all the elements of a `dlistint_t` list |
+| `1-dlistint_len.c` | Returns the number of elements in a linked `dlistint_t` list |
+| `2-add_dnodeint.c` | Adds a new node at the beginning of a `dlistint_t` list |
+| `3-add_dnodeint_end.c` | Adds a new node at the end of a `dlistint_t` list |
+| `4-free_dlistint.c` | Frees a `dlistint_t` list |
+| `5-get_dnodeint.c` | Returns the nth node of a `dlistint_t` linked list |
+| `6-sum_dlistint.c` | Returns the sum of all the data (n) of a `dlistint_t` linked list |
+| `7-insert_dnodeint.c` | Inserts a new node at a given position |
+| `8-delete_dnodeint.c` | Deletes the node at index `index` of a `dlistint_t` linked list |
+| `100-password` | Stores the password for `crackme4` executable file |
+| `102-result` | Stores the largest palindrome made from the product of two 3-digit numbers |
+| `103-keygen.c` | Generates a keygen for `crackme5` executable file |
