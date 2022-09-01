@@ -58,5 +58,3 @@ What you should learn from this project:
 
 ---
 
-## Author
-* **Tabitha O'Melay** - [tabbykatz](https://github.com/tabbykatz)
