@@ -29,4 +29,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Tabitha O'Melay** - [tabbykatz](https://github.com/tabbykatz)
+* **Oliver Samuel** - [Tecnophille](https://github.com/Tecnophille)
