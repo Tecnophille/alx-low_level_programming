@@ -1,6 +1,6 @@
 # Hash Tables
 
-Project done during **Full Stack Software Engineering studies** at **ALX**. It aims to learn how to implement Hash Tables with **C language**.
+Project done during **Full Stack Software Engineering** at **ALX**. It aims to learn how to implement Hash Tables with **C language**.
 
 ## Technologies
 * Scripts written in Bash 
